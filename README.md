@@ -7,8 +7,8 @@
 1. Traditional Network of farmer, Broker, Insurance provider and Bank which involves complex Documentation and takes time
 2. Shared Ledger among farmer, Broker, Insurance provider and Bank on Blockchain Platform
 <p float="left">
-  <img src="Images/Link.png" height="250" width="450" hspace="15">
-  <img src="Images/Link2.png" height="250" width="450" hspace="15">
+  <img src="Images/Link.png" height="250" width="400" hspace="15">
+  <img src="Images/Link2.png" height="250" width="400" hspace="15">
 </p>
 
 
