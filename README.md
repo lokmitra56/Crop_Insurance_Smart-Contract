@@ -1,4 +1,4 @@
-# Smart Contract for Crop Insurance based on Ethereum Blockchain
+# Smart Contract for Crop Insurance based on Blockchain
 
 ## Inspiration 
 1) Natural disasters like floods and droughts frequently cause agricultural loss, which is a challenge for farmers. Farmers who are insured often have trouble getting the full value of their insurance from the insurance providers. Additionally, in this entire process, the insurance firms serve as a middleman. 
