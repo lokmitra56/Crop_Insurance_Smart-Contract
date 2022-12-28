@@ -22,7 +22,7 @@
 
 ## System Flowchart
 <p float="left">
-  <img src="Images/Flowchart.png" height="360" width="1250" hspace="15">
+  <img src="Images/Flowchart.png" height="320" width="1250" hspace="15">
 </p>
 
 ## Implementation Steps
